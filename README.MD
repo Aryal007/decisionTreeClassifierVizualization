@@ -4,8 +4,11 @@ Use of Decision Tree Classifier using scikit learn to visualize how the computat
 Required dependencies
 
 sklearn
+
 numpy
+
 pydotplus
+
 IPython
 
 The iris flower data set is available at https://en.wikipedia.org/wiki/Iris_flower_data_set
